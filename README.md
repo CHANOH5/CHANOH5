@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Vue.js-#4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+
+
+
+
+
 <!--
 **CHANOH5/CHANOH5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
