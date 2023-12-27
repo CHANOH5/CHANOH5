@@ -11,12 +11,6 @@
 [![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
  
 <br>
-
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <h3> dhcksehf1@naver.com </h3>
-</div><br>
-    
 ## 🔨 Once I've used 🔨
 <div align=center>
 	<h3>🐧 Tech Stack 🐧</h3>
@@ -48,7 +42,11 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
-
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <h3> dhcksehf1@naver.com </h3>
+</div><br>
+    
 
 <!--
 **CHANOH5/CHANOH5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
