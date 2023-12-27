@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20chanseok's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20찬돌's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 ---
   
